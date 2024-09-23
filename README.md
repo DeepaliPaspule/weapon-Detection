@@ -15,7 +15,7 @@ ultralytics (for YOLOv8)
 
 <h3>Installation</h3>
 
-Clone the repository:  git clone https://github.com/rahulbiradar06/weapon-detection.git
+Clone the repository:  git clone https://github.com/DeepaliPaspule/weapon-Detection.git
 
 then add yoloV8 files in YOLO-Weights directory
 
@@ -28,4 +28,4 @@ PyTorch
 
 To achieve the best performance, you can purchase our optimized YOLOv8 weight files. 
 These weights are fine-tuned for weapon detection, providing high accuracy and 
-speed. For purchasing details and licensing information, please contact me at [rahulbiradar0601@gmail.com].
+speed. For purchasing details and licensing information, please contact me at [deepalipaspule01@gmail.com].
